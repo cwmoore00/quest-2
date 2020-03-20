@@ -1,0 +1,5 @@
+﻿  main.cpp
+database.obj : error LNK2005: "void __cdecl transfer(class account,class account,float)" (?transfer@@YAXVaccount@@0M@Z) already defined in account.obj
+interaction.obj : error LNK2005: "void __cdecl transfer(class account,class account,float)" (?transfer@@YAXVaccount@@0M@Z) already defined in account.obj
+main.obj : error LNK2005: "void __cdecl transfer(class account,class account,float)" (?transfer@@YAXVaccount@@0M@Z) already defined in account.obj
+C:\Users\Carson Moore\Documents\School\Programming II\Quests\Quest-2\Quest 2\Debug\Quest 2.exe : fatal error LNK1169: one or more multiply defined symbols found
